@@ -1,2 +1,2 @@
-# -character
+# 绝区零character
 Characters
